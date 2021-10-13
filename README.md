@@ -1,5 +1,5 @@
 # MyNotes 我的工作笔记
-```plantuml
+
 @startmindmap
 * 我的工作笔记
 ** android
@@ -16,4 +16,3 @@
 ** sql
 *** sql语句记录
 @endmindmap
-```
