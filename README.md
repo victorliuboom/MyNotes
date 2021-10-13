@@ -17,5 +17,7 @@
 *** git问题记录
 ** sql
 *** sql语句记录
+** algorithm
+*** algorithm笔记
 @endmindmap
 ```
