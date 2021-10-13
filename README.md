@@ -1,8 +1,9 @@
 # MyNotes 我的工作笔记
 
+```plantuml
 @startmindmap
 * 我的工作笔记
-** android
+* 、* android
 *** android-笔记
 *** android-bug记录
 ** java后端
@@ -16,3 +17,4 @@
 ** sql
 *** sql语句记录
 @endmindmap
+```
