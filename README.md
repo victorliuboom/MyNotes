@@ -1,6 +1,6 @@
 # MyNotes 我的工作笔记
 
-![avatar](/image/流程图.png)
+![avatar](/image/笔记结构图.png)
 ```plantuml
 @startmindmap
 * 我的工作笔记
