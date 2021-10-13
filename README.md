@@ -1,9 +1,10 @@
 # MyNotes 我的工作笔记
 
+![avatar](/image/流程图.png)
 ```plantuml
 @startmindmap
 * 我的工作笔记
-* 、* android
+** android
 *** android-笔记
 *** android-bug记录
 ** java后端
